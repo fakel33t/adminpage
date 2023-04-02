@@ -1,0 +1,2 @@
+# adminpage
+default web-icons
